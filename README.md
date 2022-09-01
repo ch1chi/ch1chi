@@ -1,7 +1,7 @@
 # ch1chi
 
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### I am Yoo, Full Stack Web Developer from :kr: Seoul, Republic of Korea 
+### I am Oh Chi Heon, Full Stack Web Developer from :kr: Seong-Nam, Republic of Korea 
 
 ### About me
 
