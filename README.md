@@ -9,9 +9,12 @@
 :pencil: Sometimes I write articles on [Medium](https://medium.com/) <br/> <!-- Add a links-->
 📫 How to reach me: myEmail@gmail.com <br/>
 
-### Interest
+### Co-Worker
 
-Web development <br/>
+김다현 <br/>
+서영석 <br/>
+도은빈 <br/>
+
 Animation with pure CSS & P5.js <br/>
 
 ### Latest Projects
