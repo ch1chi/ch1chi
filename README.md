@@ -3,11 +3,9 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### I am Oh Chi Heon, Full Stack Web Developer from :kr: Seong-Nam, Republic of Korea 
 
-### About me
+### Project Name
 
-:four_leaf_clover: I’m currently learning Basic Programming skills like Python, HTML, CSS and Javascript.<br/>
-:pencil: Sometimes I write articles on [Medium](https://medium.com/) <br/> <!-- Add a links-->
-📫 How to reach me: myEmail@gmail.com <br/>
+Food Search and Full-Menu appeared
 
 ### Co-Worker
 
