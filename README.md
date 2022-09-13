@@ -5,7 +5,7 @@
 
 ### 1. Project Name
 
-Food Search and Full-Menu appeared
+숫자 야구 ( 미니 게임 )
 
 ### 2. Co-Worker
 
