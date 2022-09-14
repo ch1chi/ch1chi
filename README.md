@@ -1,6 +1,6 @@
 # ch1chi
 
-### Hi Helloooo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### 3조  Presentation  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### I am Oh Chi Heon, Full Stack Web Developer from :kr: Seong-Nam, Republic of Korea 
 
 ### 1. Project Name
