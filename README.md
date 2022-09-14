@@ -21,7 +21,7 @@
 
 ### 4. 다룰 만한 내용
 ![image](https://user-images.githubusercontent.com/108641279/190150155-71b2e326-32af-4935-8b9c-ec539b8d6483.png)
-(1) 목록 차트 부분
+(1) 목록 차트 부분 </br>
 ![image](https://user-images.githubusercontent.com/108641279/190149338-3cb45443-7395-46e2-b835-31699ed1a31c.png)<br/>
 (2) 야구의 숫자 구성 함수<br/>
 ![image](https://user-images.githubusercontent.com/108641279/190150313-28a1ac98-8f62-48e2-810f-c98bc71276f8.png) <br/>
