@@ -3,15 +3,17 @@
 ### 3조  Presentation  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### I am Oh Chi Heon, Full Stack Web Developer from :kr: Seong-Nam, Republic of Korea 
 
-### 1. Project Name
 
-숫자 야구 ( 미니 게임 )
-
-### 2. Co-Worker ( 3 조 )
+### 1. Co-Worker ( 3 조 )
 
 오치헌 ( 중간다리역할 겸 발표 )<br/>
 문형기 (  표지와 배경 담당 ) <br/>
 도은빈 (  야구의 기능 담당 ) <br/>
+
+### 2. Project Name
+
+숫자 야구 ( 미니 게임 )
+
 
 ### 3. 게임의 규칙
 1, 사용되는 숫자는 1에서 9까지 서로 다른 숫자이다. </br>
