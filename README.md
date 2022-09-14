@@ -9,15 +9,20 @@
 
 ### 2. Co-Worker ( 3 조 )
 
-오치헌 <br/>
-문형기 <br/>
-도은빈 <br/>
+오치헌 ( 중간다리역할 겸 발표 )<br/>
+문형기 (  첫 표지와 배경 담당 )<br/>
+도은빈 (  야구의 기능 담당 )<br/>
 
 ### 3. 도메인 용어 ( 
-
+ (1) first.html     -->   버튼 설정 , 클릭 시 화면 전환
+ (2) main.js        -->  화면에 나타내는 글씨와  글자가 1글자씩 나오게 하는 설정
+ (3) style.css      -->  글자 굵기 , 크기 설정
 
 
 ### 4. 다룰 만한 내용
+![image](https://user-images.githubusercontent.com/108641279/190149338-3cb45443-7395-46e2-b835-31699ed1a31c.png)
+![image](https://user-images.githubusercontent.com/108641279/190150155-71b2e326-32af-4935-8b9c-ec539b8d6483.png)
+![image](https://user-images.githubusercontent.com/108641279/190150313-28a1ac98-8f62-48e2-810f-c98bc71276f8.png)
 
 
 
@@ -31,9 +36,9 @@
 
 ### 6. 트러블 슈팅
   
-         오치헌 : 
+   오치헌 : 
 
 ### 7. 느낌점
 
 
-오치헌 : 
+   오치헌 : 
