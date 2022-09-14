@@ -13,7 +13,8 @@
 문형기 <br/>
 도은빈 <br/>
 
-### 3. 도메인 용어
+### 3. 도메인 용어 (
+
 
 
 ### 4. 다룰 만한 내용
@@ -21,7 +22,10 @@
 
 
 
-### 5. 
+
+### 5.  예고편
+
+![firstscreen](https://user-images.githubusercontent.com/108641279/190142767-b3ef9ba5-379d-4fc0-9956-6574bdd5ca42.gif)
 
 
 
