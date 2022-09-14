@@ -42,7 +42,7 @@
               오랜 고민 끝에 방법은 간단했는데, 임의의 전역변수를 사용하여 미리 저장된 문자열 배열의 인덱스에</br> 접근하게 하고, 
               마지막 배열 인덱스를 벗어나면 다시 전역변수를 0으로 초기화 한 다음  콜 백 함수를 활용하여 페이지의 생명 주기가 </br>살아있는 한 해당 기능을 
               계속 유지할 수 있도록 구현함. </br>
-  ★ 도은빈  - </br>missing script start : package.json의 파일이 잘못된 위치에 있었고, node_modules, package_lock.json 과 같은 위치로 </br> 변경 후
+  ★ 도은빈   </br>  -> missing script start : package.json의 파일이 잘못된 위치에 있었고, node_modules, package_lock.json 과 같은 위치로 </br> 변경 후
              실행 혹은 새 폴더 만들어 npm i부터 진행
 
 ### 7. 느낌점
