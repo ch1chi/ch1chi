@@ -27,7 +27,7 @@
  (4) NumberBaseball.js -->  숫자 야구의 핵심 문법 기능
 
 ### 5. 다룰 만한 내용
-![list](https://user-images.githubusercontent.com/108641279/190162178-7df039f1-d324-4200-ba9f-1d2ec087e908.PNG) </br>
+![목록](https://user-images.githubusercontent.com/108641279/190277636-8368a647-61ba-4986-baf6-9f4e7750b922.PNG) </br>
 ( 그림 1 ) 목록 차트 부분 </br>
 ![image](https://user-images.githubusercontent.com/108641279/190149338-3cb45443-7395-46e2-b835-31699ed1a31c.png)<br/>
 ( 그림 2 ) 야구의 숫자 구성 함수<br/>
