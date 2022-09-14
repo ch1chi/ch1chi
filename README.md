@@ -13,13 +13,18 @@
 문형기 (  표지와 배경 담당 ) <br/>
 도은빈 (  야구의 기능 담당 ) <br/>
 
-### 3. 도메인 용어 ( 
+### 3. 게임의 규칙
+1, 사용되는 숫자는 1에서 9까지 서로 다른 숫자이다. </br>
+2. 숫자는 맞지만 위치가 틀렸을 때는 볼이 된다. </br>
+3. 숫자와 위치가 전부 맞으면 스트라이크가 된다. </br>
+
+### 4. 도메인 용어 ( 
  (1) main.html     -->   버튼 설정 , 버튼 클릭 시 화면 전환<br/>
  (2) main.js        -->  화면에 나타내는 글씨와  글자가 1글자씩 나오게 하는 설정( 타이핑 속도 )<br/>
  (3) style.css      -->  글자 굵기 , 크기 설정<br/>
 
 
-### 4. 다룰 만한 내용
+### 5. 다룰 만한 내용
 ![list](https://user-images.githubusercontent.com/108641279/190162178-7df039f1-d324-4200-ba9f-1d2ec087e908.PNG) </br>
 ( 그림 1 ) 목록 차트 부분 </br>
 ![image](https://user-images.githubusercontent.com/108641279/190149338-3cb45443-7395-46e2-b835-31699ed1a31c.png)<br/>
@@ -29,13 +34,13 @@
 
 
 
-### 5.  예고편
+### 6.  예고편
 
 ![firstscreen](https://user-images.githubusercontent.com/108641279/190142767-b3ef9ba5-379d-4fc0-9956-6574bdd5ca42.gif)
 
 
 
-### 6. 트러블 슈팅
+### 7. 트러블 슈팅
   
 ###  ★ 오치헌   </br>
 ---> 
@@ -49,7 +54,7 @@
  ---> missing script start : package.json의 파일이 잘못된 위치에 있었고, node_modules, package_lock.json 과 같은 위치로 </br> 변경 후
                실행 혹은 새 폴더 만들어 npm i부터 진행하였다.
 
-### 7. 느낌점
+### 8. 느낌점
 
 
 ###  ★ 오치헌   </br> 
